@@ -1,5 +1,19 @@
 body{
-background-color: chartreuse;
-dsiplay;flex;
+background-color: rgb(90, 172, 8);
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
 
+}
+
+button {
+    background-color: green;
+    color: aliceblue;
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+.passo {
+    display: none;
 }
